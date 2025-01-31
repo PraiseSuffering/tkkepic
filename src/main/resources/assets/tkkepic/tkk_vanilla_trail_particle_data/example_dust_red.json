@@ -1,0 +1,8 @@
+{
+  "particleId": "minecraft:dust",
+  "particleArgs": " 1 0 0 1",
+  "spaceBetween": 0.3,
+  "speed": 1.0,
+  "dist": 0.1,
+  "count": 1
+}

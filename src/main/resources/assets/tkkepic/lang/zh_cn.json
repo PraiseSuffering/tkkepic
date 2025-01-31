@@ -1,0 +1,23 @@
+{
+  "tkkepic.tkkgame" : "TKKGAME",
+  "tkkepic.switch" : "切换技能栏位置",
+  "tkkepic.spell1" : "技能1",
+  "tkkepic.spell2" : "技能2",
+  "tkkepic.spell3" : "技能3",
+  "tkkepic.spell4" : "技能4",
+  "tkkepic.spell5" : "技能5",
+  "tkkepic.spell6" : "技能6",
+  "tkkepic.spell7" : "技能7",
+  "tkkepic.spell8" : "技能8",
+
+  "block.tkkepic.skill_workbench" : "技能工作台",
+  "block.tkkepic.skill_workbench.target_item_empty" : "目标物品不能为空",
+  "item.tkkepic.skill_item" : "技能书",
+  "item.tkkepic.random_skill_item" : "随机技能书",
+  "itemGroup.tkkepic.items" : "TkkEpic",
+
+
+
+  "commands.tkkaimodule.set.notfind" : "未找到module: %s",
+  "commands.tkkaimodule.list" : "module列表: %s"
+}

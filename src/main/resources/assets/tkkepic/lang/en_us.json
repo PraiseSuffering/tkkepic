@@ -1,0 +1,21 @@
+{
+  "tkkepic.tkkgame" : "TKKGAME",
+  "tkkepic.switch" : "Toggle shortcut bar coordinates",
+  "tkkepic.spell1" : "spell1",
+  "tkkepic.spell2" : "spell2",
+  "tkkepic.spell3" : "spell3",
+  "tkkepic.spell4" : "spell4",
+  "tkkepic.spell5" : "spell5",
+  "tkkepic.spell6" : "spell6",
+  "tkkepic.spell7" : "spell7",
+  "tkkepic.spell8" : "spell8",
+
+  "block.tkkepic.skill_workbench" : "skill workbench",
+  "block.tkkepic.skill_workbench.target_item_empty" : "The target item cannot be empty",
+  "item.tkkepic.skill_item" : "skill book",
+  "item.tkkepic.random_skill_item" : "random skill book",
+  "itemGroup.tkkepic.items" : "TkkEpic",
+
+  "commands.tkkaimodule.set.notfind" : "not find module: %s",
+  "commands.tkkaimodule.list" : "module list: %s"
+}

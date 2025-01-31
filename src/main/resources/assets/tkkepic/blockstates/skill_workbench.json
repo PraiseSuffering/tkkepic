@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=east": { "model": "tkkepic:block/skill_workbench" ,"y": 90},
+    "facing=south": { "model": "tkkepic:block/skill_workbench", "y": 180 },
+    "facing=west": { "model": "tkkepic:block/skill_workbench", "y": 270 },
+    "facing=north": { "model": "tkkepic:block/skill_workbench", "y": 0 }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "particleId": "minecraft:flame",
+  "particleArgs": "",
+  "spaceBetween": 1.0,
+  "speed": 0.03,
+  "dist": 0.1,
+  "count": 1
+}
